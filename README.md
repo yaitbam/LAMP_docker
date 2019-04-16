@@ -58,5 +58,5 @@ mysql -u root -p
 ```
 ![connectmysqlfromterminal](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/mysqlworksalso.jpeg)
 
-By : Youssef Benadda 
+By : Youssef ait bamouh
 1337
